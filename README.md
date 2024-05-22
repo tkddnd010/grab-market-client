@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
