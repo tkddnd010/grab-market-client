@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
